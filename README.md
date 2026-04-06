@@ -21,18 +21,8 @@ The system follows a structured pipeline:
 6. Pipeline Integration
 7. Sentiment Prediction (positive/negative)
 
-📌**Project Stucture**
 
-├── data/                  # Dataset files
-├── notebooks/            # Jupyter notebooks
-├── models/               # Saved models
-├── src/                  # Source code
-│   ├── preprocessing.py
-│   ├── feature_extraction.py
-│   ├── fusion_model.py
-│   └── train.py
-├── results/              # Outputs, graphs, metrics
-├── requirements.txt
-└── README.md
+
+
 
 

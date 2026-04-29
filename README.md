@@ -2,7 +2,7 @@
 This project focuses on cross-platform sentiment analysis by integrating data from multiple social media sources and applying an attention-based feature fusion mechanism. The goal is to improve sentiment prediction accuracy by leveraging multimodal and multi-source data.
 
 🧠 **Key Features**
-1. Multi-Platform Data Integration (e.g., Twitter, Reddit, etc.)
+1. Multi-Platform Data Integration (e.g., Twitter, Reddit, Instagram , Amazon Review)
 2. Advanced Data Preprocessing Pipeline
 3. Feature Extraction using Deep Learning Models
 4. Attention-Based Feature Fusion
